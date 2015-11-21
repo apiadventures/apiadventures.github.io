@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>API Adventures</title>
+    <description>People, Places, Things and the Web</description>
+    <link>http://apiadventures.co.uk//startbootstrap-clean-blog-jekyll/</link>
+    <atom:link href="http://apiadventures.co.uk//startbootstrap-clean-blog-jekyll/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 21 Nov 2015 19:56:35 +0000</pubDate>
+    <lastBuildDate>Sat, 21 Nov 2015 19:56:35 +0000</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>“Women in Technology”</title>
+        <description>&lt;p&gt;Today I was in New Broadcasting House (NBH) along with colleagues across Digital &amp;amp; Engineering for the BBC Women in Tech Event.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;The Demos&lt;/h2&gt;
+
+&lt;blockquote&gt;something here&lt;/blockquote&gt;
+</description>
+        <pubDate>Sat, 10 Oct 2015 20:30:00 +0100</pubDate>
+        <link>http://apiadventures.co.uk//startbootstrap-clean-blog-jekyll/2015/10/10/wit/</link>
+        <guid isPermaLink="true">http://apiadventures.co.uk//startbootstrap-clean-blog-jekyll/2015/10/10/wit/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>“Clean My Horse Rug Launches”</title>
+        <description>&lt;h1 id=&quot;rug-cleaning-service-launches&quot;&gt;Rug cleaning service launches&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.cleanmyhorserug.co.uk&quot;&gt;Clean My Horse Rug&lt;/a&gt; has now launched and is ready to receive &lt;a href=&quot;https://goo.gl/QNkR4f&quot;&gt;orders&lt;/a&gt;. For comments and enquiries visit &lt;a href=&quot;https://facebook.com/cleanmuhorserug&quot;&gt;our Facebook page&lt;/a&gt; or if you are ready to place and order, &lt;a href=&quot;https://goo.gl/QNkR4f&quot;&gt;go right ahead, what are you waiting for ?&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 01 Oct 2015 22:45:30 +0100</pubDate>
+        <link>http://apiadventures.co.uk//startbootstrap-clean-blog-jekyll/2015/10/01/clean-my-horse-rug/</link>
+        <guid isPermaLink="true">http://apiadventures.co.uk//startbootstrap-clean-blog-jekyll/2015/10/01/clean-my-horse-rug/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
