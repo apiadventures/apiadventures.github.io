@@ -6,7 +6,7 @@ date:       2016-07-01 21:45:30
 author:     “Keith Mitchell”
 header-img: "img/home-bg-ol.jpg"
 ---
-<h2 class="section-heading">Calling all enginers</h2>
+<h2 class="section-heading">Calling all engineers</h2>
 
 <p>I'm currently looking for mobile engineers (iOS and Android), web developers and chapter leads to join the team.</p>
 
