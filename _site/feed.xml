@@ -5,24 +5,9 @@
     <description>People, Places, Things and the Web</description>
     <link>http://www.apiadventures.co.uk/</link>
     <atom:link href="http://www.apiadventures.co.uk/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 20 Jul 2016 09:43:33 +0200</pubDate>
-    <lastBuildDate>Wed, 20 Jul 2016 09:43:33 +0200</lastBuildDate>
+    <pubDate>Wed, 20 Jul 2016 09:51:48 +0200</pubDate>
+    <lastBuildDate>Wed, 20 Jul 2016 09:51:48 +0200</lastBuildDate>
     <generator>Jekyll v1.5.1</generator>
-    
-      <item>
-        <title>Im Hiring</title>
-        <description>&lt;h2 class=&quot;section-heading&quot;&gt;Calling all enginers&lt;/h2&gt;
-
-&lt;p&gt;I&#39;m currently looking for mobile engineers (iOS and Android), web developers and chapter leads to join the team.&lt;/p&gt;
-
-&lt;p&gt;You&#39;ll join a strong team of designers and engineers who have the bold mission of Scaling Spotify’s Design Language here at Spotify HQ in Stockholm. Working at Spotify provides you with countless opportunities for personal growth and development as well as all the usual benefits of working in a large global tech company.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 21 Nov 2015 00:00:00 +0100</pubDate>
-        <link>http://www.apiadventures.co.uk/2015/11/21/im-hiring/</link>
-        <guid isPermaLink="true">http://www.apiadventures.co.uk/2015/11/21/im-hiring/</guid>
-        
-        
-      </item>
     
       <item>
         <title>“Women in Technology”</title>
@@ -35,6 +20,21 @@
         <pubDate>Sat, 10 Oct 2015 21:30:00 +0200</pubDate>
         <link>http://www.apiadventures.co.uk/2015/10/10/wit/</link>
         <guid isPermaLink="true">http://www.apiadventures.co.uk/2015/10/10/wit/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>“I’m Hiring”</title>
+        <description>&lt;h2 class=&quot;section-heading&quot;&gt;Calling all enginers&lt;/h2&gt;
+
+&lt;p&gt;I&#39;m currently looking for mobile engineers (iOS and Android), web developers and chapter leads to join the team.&lt;/p&gt;
+
+&lt;p&gt;You&#39;ll join a strong team of designers and engineers who have the bold mission of Scaling Spotify’s Design Language here at Spotify HQ in Stockholm. Working at Spotify provides you with countless opportunities for personal growth and development as well as all the usual benefits of working in a large global tech company.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Oct 2015 23:45:30 +0200</pubDate>
+        <link>http://www.apiadventures.co.uk/2015/10/01/im-hiring/</link>
+        <guid isPermaLink="true">http://www.apiadventures.co.uk/2015/10/01/im-hiring/</guid>
         
         
       </item>
