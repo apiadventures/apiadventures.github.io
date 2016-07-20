@@ -3,11 +3,26 @@
   <channel>
     <title>API Adventures</title>
     <description>People, Places, Things and the Web</description>
-    <link>http://apiadventures.co.uk//startbootstrap-clean-blog-jekyll/</link>
-    <atom:link href="http://apiadventures.co.uk//startbootstrap-clean-blog-jekyll/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 21 Nov 2015 20:02:55 +0000</pubDate>
-    <lastBuildDate>Sat, 21 Nov 2015 20:02:55 +0000</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <link>http://www.apiadventures.co.uk/</link>
+    <atom:link href="http://www.apiadventures.co.uk/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 20 Jul 2016 09:43:33 +0200</pubDate>
+    <lastBuildDate>Wed, 20 Jul 2016 09:43:33 +0200</lastBuildDate>
+    <generator>Jekyll v1.5.1</generator>
+    
+      <item>
+        <title>Im Hiring</title>
+        <description>&lt;h2 class=&quot;section-heading&quot;&gt;Calling all enginers&lt;/h2&gt;
+
+&lt;p&gt;I&#39;m currently looking for mobile engineers (iOS and Android), web developers and chapter leads to join the team.&lt;/p&gt;
+
+&lt;p&gt;You&#39;ll join a strong team of designers and engineers who have the bold mission of Scaling Spotify’s Design Language here at Spotify HQ in Stockholm. Working at Spotify provides you with countless opportunities for personal growth and development as well as all the usual benefits of working in a large global tech company.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 21 Nov 2015 00:00:00 +0100</pubDate>
+        <link>http://www.apiadventures.co.uk/2015/11/21/im-hiring/</link>
+        <guid isPermaLink="true">http://www.apiadventures.co.uk/2015/11/21/im-hiring/</guid>
+        
+        
+      </item>
     
       <item>
         <title>“Women in Technology”</title>
@@ -17,9 +32,9 @@
 
 &lt;blockquote&gt;something here&lt;/blockquote&gt;
 </description>
-        <pubDate>Sat, 10 Oct 2015 20:30:00 +0100</pubDate>
-        <link>http://apiadventures.co.uk//startbootstrap-clean-blog-jekyll/2015/10/10/wit/</link>
-        <guid isPermaLink="true">http://apiadventures.co.uk//startbootstrap-clean-blog-jekyll/2015/10/10/wit/</guid>
+        <pubDate>Sat, 10 Oct 2015 21:30:00 +0200</pubDate>
+        <link>http://www.apiadventures.co.uk/2015/10/10/wit/</link>
+        <guid isPermaLink="true">http://www.apiadventures.co.uk/2015/10/10/wit/</guid>
         
         
       </item>
@@ -28,12 +43,11 @@
         <title>“Clean My Horse Rug Launches”</title>
         <description>&lt;h1 id=&quot;rug-cleaning-service-launches&quot;&gt;Rug cleaning service launches&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.cleanmyhorserug.co.uk&quot;&gt;Clean My Horse Rug&lt;/a&gt; has now launched and is ready to receive &lt;a href=&quot;https://goo.gl/QNkR4f&quot;&gt;orders&lt;/a&gt;. For comments and enquiries visit &lt;a href=&quot;https://facebook.com/cleanmuhorserug&quot;&gt;our Facebook page&lt;/a&gt; or if you are ready to place and order, &lt;a href=&quot;https://goo.gl/QNkR4f&quot;&gt;go right ahead, what are you waiting for ?&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;a href=&quot;http://www.cleanmyhorserug.co.uk&quot;&gt;Clean My Horse Rug&lt;/a&gt; has now launched and is ready to receive &lt;a href=&quot;https://goo.gl/QNkR4f&quot;&gt;orders&lt;/a&gt;. For comments and enquiries visit &lt;a href=&quot;https://facebook.com/cleanmuhorserug&quot;&gt;our Facebook page&lt;/a&gt;.  If you are ready to place and order, &lt;a href=&quot;https://goo.gl/QNkR4f&quot;&gt;go right ahead, what are you waiting for ?&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 01 Oct 2015 22:45:30 +0100</pubDate>
-        <link>http://apiadventures.co.uk//startbootstrap-clean-blog-jekyll/2015/10/01/clean-my-horse-rug/</link>
-        <guid isPermaLink="true">http://apiadventures.co.uk//startbootstrap-clean-blog-jekyll/2015/10/01/clean-my-horse-rug/</guid>
+        <pubDate>Thu, 01 Oct 2015 23:45:30 +0200</pubDate>
+        <link>http://www.apiadventures.co.uk/2015/10/01/clean-my-horse-rug/</link>
+        <guid isPermaLink="true">http://www.apiadventures.co.uk/2015/10/01/clean-my-horse-rug/</guid>
         
         
       </item>
