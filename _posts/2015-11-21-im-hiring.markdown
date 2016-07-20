@@ -2,18 +2,12 @@
 layout:     post
 title:      “I'm Hiring”
 subtitle:   "I'm hiring Engineers”
-date:       2015-11-21 13:30:00
+date:       2016-07-20 08:30:00
 author:     “Keith Mitchell”
 header-img: "img/home-bg-ol.jpg"
 ---
 <h2 class="section-heading">Calling all enginers</h2>
 
-<p>I'm currently looking for 2 web developers to work within the Sport Engineering team and help us build our the Digital proposition for the Summer Olympic Games in Rio next year.</p>
+<p>I'm currently looking for mobile engineers (iOS and Android), web developers and chapter leads to join the team.</p>
 
-<p>You'll join a strong team of 75 developers, designers, product owners, testers and technical project managers within our fabulous MediaCityUK offices. Working in Digital Sport gives you countless opportunities for growth - from mentoring, to speaking at conferences, to training as well as all the usual benefits of working in a large cross discipline team.</p>
-
-<p>The roles are continuing roles (aka permenant) and will be split amongst 2 of the 4 engineering teams in Sport.  The first role will be within BBC Live, the team responsible for delivering our client-side Javascript Live application across a number of products including News, Music events and many more. The second will be within the core sport team which have responsibility for the front-end development of most of our estate including the home pages, stories and media pages and stats pages (such as fixtures, scores, results, tables.</p>
-
-<p>With respect to technical skills we are ideally looking for a strong Javascript background.  We are currently in the process of adopting an approach for our front-end development based on Isomorphic JS and specifically ReactJS, so experience here would be sought.</p>
-
-<p>To apply for these roles, use the BBC Careers link - http://careerssearch.bbc.co.uk/jobs/job/JavaScript-Software-Engineer/13701</p>
+<p>You'll join a strong team of designers and engineers who have the bold mission of Scaling Spotify’s Design Language here at Spotify HQ in Stockholm. Working at Spotify provides you with countless opportunities for personal growth and development as well as all the usual benefits of working in a large global tech company.</p>
